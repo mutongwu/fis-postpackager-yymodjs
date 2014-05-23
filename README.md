@@ -11,5 +11,5 @@ a postpackager plugin for fis to process map.json and create map.js for modjs
 //file : path/to/project/fis-conf.js
 fis.config.set('modules.postpackager', 'yymodjs');
 //settings
-fis.config.set('settings.postpackager.modjs.subpath', 'pack/map.js');
+fis.config.set('settings.postpackager.yymodjs.subpath', 'pack/map.js');
 ```
