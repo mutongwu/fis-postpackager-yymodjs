@@ -1,0 +1,24 @@
+{
+  "name": "fis-postpackager-yymodjs",
+  "version": "0.0.1",
+  "description": "a postpackager plugin for fis to process map.json and create map.js for modjs.Modified based on https://github.com/fouber/fis-postpackager-yymodjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mutongwu/fis-postpackager-yymodjs"
+  },
+  "keywords": [
+    "fis",
+    "postpackager",
+    "package",
+    "modjs"
+  ],
+  "author": "mutongwu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mutongwu/fis-postpackager-yymodjs/issues"
+  }
+}
